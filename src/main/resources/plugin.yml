@@ -1,0 +1,7 @@
+name: RedeNeverPlugin
+version: '${project.version}'
+main: org.redenever.RedeNeverPlugin
+description: Plugin RedeNever
+commands:
+  perfil:
+  lixo:
